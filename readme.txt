@@ -1,13 +1,15 @@
 
+See https://jshoyer.github.io
+
 I fiddled with 'blogging' with Jekyll bootstrap:
-first the nhoss one,
-and then the plusjade one.
+first the nhoss one
+(see https://github.com/jshoyer/jshoyer.github.io-previous)
+and then the plusjade one
+(this repository).
 I got tired of it.
-See https://github.com/jshoyer/jshoyer.github.io-previous
 
 Eventually I just exported a plain HTML page,
-which I meant to pretty up with CSS.
-I never got around to doing this.
+which I intend to pretty up with CSS.
 
 * Links
 :PROPERTIES:
