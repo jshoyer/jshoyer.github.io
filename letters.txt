@@ -1,0 +1,33 @@
+
+# [2018-09-30 14:56]
+
+I really enjoyed your (second) conversation with Anne Simon
+on TWiV 512.
+
+Regarding public perception of transgenic crops,
+it is worth noting that Bayer acquired Monsanto this year.
+Low commodity prices
+have been driving consolidation in the industry
+(see also ChemChina-Syngenta and DuPont-Dow).
+It should be interesting to see
+if the disappearance of the name "Monsanto" affects perception at all.
+
+In a historical echo,
+the European Union Court of Justice
+recently ruled that CRISPR-gene-edited plants
+will need to go through the same stringent approval process
+as transgenic plants.
+(See for example [[https://www.nature.com/articles/d41586-018-05814-6][this news piece]] by Ewen Callaway.)
+This decisions runs counter to the regulatory environment
+that is emerging in the US,
+where the USDA has indicated
+that a number of gene-edited crops
+will not be regulated as transgenic.
+
+Plum pox virus
+and two geminiviruses
+are on the [[https://onlinelibrary.wiley.com/doi/full/10.1111/j.1364-3703.2011.00752.x][list of "top" plant viruses]]
+that Dickson picked back on TWiV 274.
+Also included on the list is Potato virus Y,
+the namesake for the genus /Potyvirus/
+and family /Potyviridae/.
