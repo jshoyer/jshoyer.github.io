@@ -1,5 +1,23 @@
 
-** Read on TWiV 514 -- http://www.microbe.tv/twiv/twiv-514-letters/
+This is an incomplete compilation
+of letters I have written
+that have been shared online.
+
+* Letters to Science
+1. evaluation of scientists
+   http://doi.org/10.1126/science.352.6281.28
+2. microbiology research for indoor farming
+   http://doi.org/10.1126/science.aag1520
+3. postdoctoral training
+   https://doi.org/10.1126/science.aat6008
+
+
+* Letters to TWiV
+http://microbe.tv/twiv/twiv-343-letters/
+and
+http://microbe.tv/twiv/twiv-345-letters/
+
+** Perception of transgenic crops (read on TWiV 514; #2 on [[http://www.microbe.tv/twiv/twiv-514-letters/][letters page]])
 # [2018-09-30 14:56]
 
 I really enjoyed your (second) conversation with Anne Simon
@@ -32,3 +50,25 @@ that Dickson picked back on TWiV 274.
 Also included on the list is <i>pot</i>ato virus /Y/,
 the namesake for the genus /Potyvirus/
 and family /Potyviridae/.
+
+** Leafhopper- and treehopper-transmitted viruses (read on TWiV 539; top of [[http://www.microbe.tv/twiv/twiv-539-letters/][letters page]])
+Regarding Dickson's pick of the week on TWiV 537
+(starting at 1:29:02):
+it looks like leafhoppers (Cicadellidae) are closely related to
+but distinct from treehoppers (Membracidae).
+
+As briefly noted in the National Geographic piece,
+treehoppers transmit fewer plant viruses:
+two are known,
+tomato pseudo-curly top virus
+and grapevine red blotch virus.
+Both are ssDNA geminiviruses,
+in the family which you featured on TWiV 512 (with Anne Simon).
+
+Leafhoppers also transmit several economically important geminiviruses
+(see the ICTV family profile),
+as well as other viruses
+such as the reovirus
+featured in the paper and cover image that Dickson described.
+
+Thanks to Dickson for excellent back-to-back picks!
